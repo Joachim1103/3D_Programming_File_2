@@ -1,0 +1,7 @@
+﻿  Camera.cpp
+C:\Unreal Engine 5\Github\3D_Programming_File_2\3D_Programming_File_2\3D_Programming_File_2\Camera.h(1,10): fatal  error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Compulsory2.cpp
+  NPC.cpp
+  Object.cpp
+  Player.cpp
+  Generating Code...
