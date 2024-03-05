@@ -133,17 +133,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Camera.cpp" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="NPC.cpp" />
-    <ClCompile Include="Object.cpp" />
-    <ClCompile Include="Player.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Camera.h" />
-    <ClInclude Include="NPC.h" />
-    <ClInclude Include="Object.h" />
-    <ClInclude Include="Player.h" />
+    <ClCompile Include="Experimental.cpp" />
+    <ClCompile Include="glad.c" />
+    <ClCompile Include="MainTask.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
