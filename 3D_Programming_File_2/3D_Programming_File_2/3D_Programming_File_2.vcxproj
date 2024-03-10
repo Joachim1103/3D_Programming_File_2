@@ -133,6 +133,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Experimental - Organized.cpp" />
+    <ClCompile Include="Experimental - Player and Trophies.cpp" />
     <ClCompile Include="Experimental.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="MainTask.cpp" />
